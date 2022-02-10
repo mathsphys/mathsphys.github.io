@@ -8,6 +8,6 @@ import HomeContent from "../components/HomeContent.vue"
 <template>
   <Header></Header>
   <HomeContent 
-      mainHeading="main head 1"
+      mainHeading="A-Level Mathematics"
     ></HomeContent>
 </template>

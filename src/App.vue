@@ -14,6 +14,7 @@ import HomeContent from "./components/HomeContent.vue"
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
 }
 h1 {
   font-size: 72px;
